@@ -1,0 +1,51 @@
+{
+ "tool": "MHGU Mod Texture Editor 1.2.0",
+ "mod": "/home/admin/Documents/Working/MHGU/Releases/Releases v2.0.0/monoblos-1.0.0.zip",
+ "files": "png",
+ "textures": [
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01.arc",
+   "texture": "enemy\\em007\\em007_01\\mod\\em007_01_01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01/enemy/em007/em007_01/mod/em007_01_01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "tex1_256x256_0A95C846D122B2E2_12.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01.arc",
+   "texture": "enemy\\em007\\em007_01\\mod\\em007_01_04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01/enemy/em007/em007_01/mod/em007_01_04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "tex1_64x64_E1CFE959B28336F0_13.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01.arc",
+   "texture": "enemy\\em007\\em007_01\\mod\\em007_01_02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01/enemy/em007/em007_01/mod/em007_01_02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 1024,
+   "source_image": "tex1_256x128_A0B6AE950B40F306_13.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01.arc",
+   "texture": "enemy\\em007\\em007_01\\mod\\em007_01_03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em007_01/enemy/em007/em007_01/mod/em007_01_03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "tex1_128x128_FAE33E2921A0E7E8_13.png"
+  }
+ ]
+}

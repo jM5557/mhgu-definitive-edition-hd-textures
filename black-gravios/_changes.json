@@ -1,0 +1,29 @@
+{
+ "tool": "MHGU Mod Texture Editor 1.2.0",
+ "mod": "/home/admin/Documents/Working/MHGU/Releases/Releases v2.0.0/black_gravios-1.0.1.zip",
+ "files": "png",
+ "textures": [
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em005_01.arc",
+   "texture": "enemy\\em005\\em005_01\\mod\\em005_01_01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em005_01/enemy/em005/em005_01/mod/em005_01_01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "em005_01_01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em005_01.arc",
+   "texture": "effect\\base\\qe\\qe001\\qe001_001_BM_NOMIP",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em005_01/effect/base/qe/qe001/qe001_001_BM_NOMIP.png"
+   ],
+   "format": "rgba8",
+   "width": 512,
+   "height": 256,
+   "source_image": "qe001_001_BM_NOMIP.png"
+  }
+ ]
+}

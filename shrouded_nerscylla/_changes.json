@@ -1,0 +1,29 @@
+{
+ "tool": "MHGU Mod Texture Editor 1.2.0",
+ "mod": "/home/admin/Documents/Working/MHGU/Releases/Releases v2.0.0/shrouded_nerscylla-0.1.15.zip",
+ "files": "png",
+ "textures": [
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em070_01.arc",
+   "texture": "enemy\\em070\\em070_01\\mod\\em070_01_01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em070_01/enemy/em070/em070_01/mod/em070_01_01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "tex1_256x256_84E61760DEE3673D_13.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em070_01.arc",
+   "texture": "enemy\\em070\\em070_01\\mod\\em070_01_02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em070_01/enemy/em070/em070_01/mod/em070_01_02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "tex1_256x256_CF949659D499F3C6_13.png"
+  }
+ ]
+}

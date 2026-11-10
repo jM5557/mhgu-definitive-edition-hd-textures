@@ -1,0 +1,2383 @@
+{
+ "tool": "MHGU Mod Texture Editor 1.2.0",
+ "mod": "/home/admin/Documents/Working/MHGU/Releases/Releases v2.0.0/map-heavens_mount-1.0.0.zip",
+ "files": "png",
+ "textures": [
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_tuta01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_tuta01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_tuta01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_plant03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_plant03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_plant03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_tree01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_tree01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 1024,
+   "source_image": "m05a00d_tree01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_camp01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_camp01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_camp01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_camp03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_camp03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_camp03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_camp02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_camp02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_camp02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_camp04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_camp04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_camp04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_camp05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_camp05_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_camp05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_rock01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_rock03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_rock02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_plant02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_plant02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_plant02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock06_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock06_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_rock06_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_tuta03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_tuta03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_tuta03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_mori01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_mori01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_mori01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_sky04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_sky04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a00d_sky04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_plant05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_plant05_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_plant05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_plant04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_plant04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_plant04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_nuno01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_nuno01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 1024,
+   "source_image": "m05a00d_nuno01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_tree02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_tree02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_tree02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_tuta02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_tuta02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_tuta02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_rock04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock05_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a00d_rock05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock07_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock07_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_rock07_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_rock20_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_rock20_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 1024,
+   "source_image": "m05a00d_rock20_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_reusu02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_reusu02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "m05a00d_reusu02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_reusu03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_reusu03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "m05a00d_reusu03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_nuno02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_nuno02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_nuno02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_sky01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_sky01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 64,
+   "height": 64,
+   "source_image": "m05a00d_sky01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_sky03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_sky03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_sky03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00.arc",
+   "texture": "stage\\m05d\\m05a00d\\m05a00d_mori03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a00/stage/m05d/m05a00d/m05a00d_mori03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a00d_mori03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock06_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock06_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_rock06_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_iseki03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_iseki03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a01d_iseki03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_mud01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_mud01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_mud01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_iseki02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_iseki02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_iseki02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_iseki04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_iseki04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_iseki04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock07_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock07_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_rock07_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock08_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock08_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_rock08_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_enkei01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_enkei01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_enkei01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_rock04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_rock01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a01d_rock00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_enkei03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_enkei03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_enkei03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_tuta01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_tuta01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_tuta01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_rock03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_tree01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_tree01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a01d_tree01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_tuta03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_tuta03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_tuta03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_iseki05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_iseki05_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_iseki05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_iseki01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_iseki01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_iseki01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_rock02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_plant01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_plant01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 507,
+   "source_image": "m05a01d_plant01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_rock20_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_rock20_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a01d_rock20_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_sky01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_sky01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_sky01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01.arc",
+   "texture": "stage\\m05d\\m05a01d\\m05a01d_enkei02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a01/stage/m05d/m05a01d/m05a01d_enkei02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a01d_enkei02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_kinoko01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_kinoko01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a02d_kinoko01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wall04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wall04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_wall04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_yuka04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_yuka04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_yuka04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wall05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wall05_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_wall05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_yuka02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_yuka02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_yuka02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_yuka01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_yuka01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_yuka01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wall02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wall02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_wall02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_yuka03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_yuka03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_yuka03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wall01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wall01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_wall01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_iseki01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_iseki01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a02d_iseki01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_iseki02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_iseki02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_iseki02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wat02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wat02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 512,
+   "source_image": "m05a02d_wat02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_tree02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_tree02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_tree02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_tree01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_tree01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_tree01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_miki00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_miki00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a02d_miki00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wall03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wall03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_wall03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wall06_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wall06_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a02d_wall06_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wat01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wat01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_wat01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_wat04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_wat04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "tex1_64x64_0717A65881F186A9_13.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_enkei00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_enkei00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_enkei00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_tree00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_tree00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a02d_tree00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02.arc",
+   "texture": "stage\\m05d\\m05a02d\\m05a02d_tuta01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a02/stage/m05d/m05a02d/m05a02d_tuta01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a02d_tuta01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_rock11_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_rock11_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_rock11_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil06_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil06_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil06_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_rock15_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_rock15_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_rock15_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_rock02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_rock02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a03d_rock02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_rock00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_rock00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_rock00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_wood01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_wood01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 256,
+   "height": 512,
+   "source_image": "m05a03d_wood01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_isekiha_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_isekiha_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a03d_isekiha_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_rock13_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_rock13_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a03d_rock13_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_tuta01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_tuta01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_tuta01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_tuta04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_tuta04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_tuta04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_plant01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_plant01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_plant01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_rakugaki01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_rakugaki01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "m05a03d_rakugaki01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_kinoko00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_kinoko00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a03d_kinoko00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil07_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil07_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil07_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil08_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil08_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil08_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_soil09_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_soil09_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_soil09_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_sika00",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_sika00.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_sika00.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_sky02_BM_NOMIP",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_sky02_BM_NOMIP.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_sky02_BM_NOMIP.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_sky00_BM_NOMIP",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_sky00_BM_NOMIP.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a03d_sky00_BM_NOMIP.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03.arc",
+   "texture": "stage\\m05d\\m05a03d\\m05a03d_sky01_BM_NOMIP",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a03/stage/m05d/m05a03d/m05a03d_sky01_BM_NOMIP.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a03d_sky01_BM_NOMIP.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_tuta01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_tuta01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_tuta01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_kusa00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_kusa00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_kusa00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_kusa05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_kusa05_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_kusa05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_kusa02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_kusa02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a04d_kusa02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_rock01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_rock01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a04d_rock01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_yuka01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_yuka01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_yuka01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_yuka02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_yuka02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_yuka02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_yuka00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_yuka00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_yuka00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_rock02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_rock02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_rock02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_tuta00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_tuta00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 2048,
+   "source_image": "m05a04d_tuta00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_wood00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_wood00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a04d_wood00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_tuta03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_tuta03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_tuta03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_komon00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_komon00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_komon00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_nuno00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_nuno00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a04d_nuno00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_rock04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_rock04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a04d_rock04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_tuta02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_tuta02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_tuta02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_rock00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_rock00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a04d_rock00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_rock03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_rock03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_rock03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_rock05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_rock05_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 1024,
+   "source_image": "m05a04d_rock05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_rock06_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_rock06_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 1024,
+   "source_image": "m05a04d_rock06_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_nuno02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_nuno02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 512,
+   "source_image": "m05a04d_nuno02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_cloud01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_cloud01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_cloud01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_cloud00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_cloud00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 1024,
+   "source_image": "m05a04d_cloud00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_cloud02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_cloud02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 512,
+   "source_image": "m05a04d_cloud02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04.arc",
+   "texture": "stage\\m05d\\m05a04d\\m05a04d_cloud05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a04/stage/m05d/m05a04d/m05a04d_cloud05_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a04d_cloud05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_rock01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_rock01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_rock01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_sky02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_sky02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_sky02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_rock02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_rock02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a05d_rock02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_plant02_NUKI",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_plant02_NUKI.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_plant02_NUKI.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_wood00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_wood00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_wood00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_ruin01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_ruin01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_ruin01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_rock00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_rock00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a05d_rock00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_soil00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_soil00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_soil00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_soil02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_soil02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_soil02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_soil03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_soil03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_soil03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05.arc",
+   "texture": "stage\\m05d\\m05a05d\\m05a05d_sky00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a05/stage/m05d/m05a05d/m05a05d_sky00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a05d_sky00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_rock01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_rock01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_rock01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_rock00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_rock00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_rock00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_wood01_NUKI",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_wood01_NUKI.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_wood01_NUKI.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_mizu01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_mizu01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_mizu01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_soil00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_soil00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_soil00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_thund00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_thund00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 64,
+   "height": 64,
+   "source_image": "m05a06d_thund00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_view01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_view01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_view01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_rock02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_rock02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a06d_rock02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_wood00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_wood00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "tex1_128x128_AA2BE8D34808DDCA_12.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_ruin01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_ruin01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_ruin01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_plant00_NUKI",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_plant00_NUKI.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_plant00_NUKI.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_soil01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_soil01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_soil01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_rock03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_rock03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_rock03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_kinoko00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_kinoko00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a06d_kinoko00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_ruin00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_ruin00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_ruin00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_shigai00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_shigai00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a06d_shigai00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_rock04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_rock04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_rock04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_cloud00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_cloud00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_cloud00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_plant01_NUKI",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_plant01_NUKI.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_plant01_NUKI.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_soil02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_soil02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_soil02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_sky00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a06/stage/m05d/m05a06d/m05a06d_sky00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a06d_sky00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_bone04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_bone04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 256,
+   "height": 64,
+   "source_image": "m05a07d_bone04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_bone00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_bone00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a07d_bone00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_enkei01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_enkei01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_enkei01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_enkei00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_enkei00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_enkei00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_wall00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_wall00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a07d_wall00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_koke03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_koke03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 2048,
+   "source_image": "m05a07d_koke03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_koke01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_koke01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 2048,
+   "source_image": "m05a07d_koke01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_yuka02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_yuka02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_yuka02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_kinoko00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_kinoko00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 512,
+   "source_image": "m05a07d_kinoko00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_kusa04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_kusa04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_kusa04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_ne00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_ne00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_ne00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_yuka05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_yuka05_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_yuka05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_mizu01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_mizu01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_mizu01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_yuka04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_yuka04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a07d_yuka04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07.arc",
+   "texture": "stage\\m05d\\m05a07d\\m05a07d_yuka06_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a07/stage/m05d/m05a07d/m05a07d_yuka06_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a07d_yuka06_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_rock07_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_rock07_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_rock07_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_rock00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_rock00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a08d_rock00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_rock05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_rock05_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_rock05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_reusu01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_reusu01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "m05a08d_reusu01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_reusu00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_reusu00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "m05a08d_reusu00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_jimen05_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_jimen05_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_jimen05_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_plant01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_plant01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_plant01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_plant00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_plant00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_plant00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_plant02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_plant02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_plant02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_tuta00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_tuta00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_tuta00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_tuta01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_tuta01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 2048,
+   "source_image": "m05a08d_tuta01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_wood00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_wood00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 2048,
+   "source_image": "m05a08d_wood00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_sky00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_sky00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_sky00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_sky02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/a08/stage/m05d/m05a08d/m05a08d_sky02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a08d_sky02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_ore03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_ore03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m24d-item_ore03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_ore04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_ore04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 256,
+   "height": 256,
+   "source_image": "m24d-item_ore04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_ore01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_ore01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m24d-item_ore01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_hone01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_hone01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 256,
+   "source_image": "m24d-item_hone01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_hone00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_hone00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 256,
+   "height": 256,
+   "source_image": "m24d-item_hone00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_hati04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_hati04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 512,
+   "source_image": "m24d-item_hati04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_hati01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_hati01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 256,
+   "height": 256,
+   "source_image": "m24d-item_hati01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_hati02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_hati02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m24d-item_hati02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_box00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_box00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m24d-item_box00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_box01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_box01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m24d-item_box01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_mi00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_mi00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 512,
+   "source_image": "m24d-item_mi00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_mi01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_mi01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 512,
+   "height": 512,
+   "source_image": "m24d-item_mi01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_kino01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_kino01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 64,
+   "height": 256,
+   "source_image": "m24d-item_kino01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_tuchi00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_tuchi00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 64,
+   "height": 64,
+   "source_image": "m24d-item_tuchi00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_uroko00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_uroko00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 128,
+   "source_image": "m24d-item_uroko00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_ore02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_ore02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 32,
+   "height": 32,
+   "source_image": "m24d-item_ore02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_kumonosu00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_kumonosu00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 512,
+   "height": 512,
+   "source_image": "m24d-item_kumonosu00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_kino00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_kino00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 128,
+   "source_image": "m24d-item_kino00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_kusa02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_kusa02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "m24d-item_kusa02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m24d\\m24d-item\\m24d-item_kusa00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m24d/m24d-item/m24d-item_kusa00_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 256,
+   "source_image": "m24d-item_kusa00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_ruin03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a06d/m05a06d_ruin03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "m05a06d_ruin03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_ruin04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a06d/m05a06d_ruin04_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_ruin04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a06d\\m05a06d_ruin00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a06d/m05a06d_ruin00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "m05a06d_ruin00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_jimen03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a08d/m05a08d_jimen03_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a08d_jimen03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_rock00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a08d/m05a08d_rock00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a08d_rock00_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_jimen01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a08d/m05a08d_jimen01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a08d_jimen01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_rock02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a08d/m05a08d_rock02_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a08d_rock02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_jimen02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a08d/m05a08d_jimen02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a08d_jimen02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_rock01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a08d/m05a08d_rock01_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a08d_rock01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d.arc",
+   "texture": "stage\\m05d\\m05a08d\\m05a08d_egg00_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/stage/m30d/m30d/stage/m05d/m05a08d/m05a08d_egg00_BM.png"
+   ],
+   "format": "bc1",
+   "width": 128,
+   "height": 128,
+   "source_image": "m05a08d_egg00_BM.png"
+  }
+ ]
+}

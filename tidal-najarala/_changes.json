@@ -1,0 +1,51 @@
+{
+ "tool": "MHGU Mod Texture Editor 1.2.0",
+ "mod": "/home/admin/Documents/Working/MHGU/Releases/Releases v2.0.0/tidal_najarala-0.2.11.zip",
+ "files": "png",
+ "textures": [
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01.arc",
+   "texture": "enemy\\em068\\em068_01\\mod\\em068_01_01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01/enemy/em068/em068_01/mod/em068_01_01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 1024,
+   "source_image": "tex1_512x256_B44E6CDFCB4E0BD2_13.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01.arc",
+   "texture": "enemy\\em068\\em068_01\\mod\\em068_01_03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01/enemy/em068/em068_01/mod/em068_01_03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 1024,
+   "source_image": "tex1_256x128_8954B198BB8F5A78_13.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01.arc",
+   "texture": "effect\\base\\em\\em093\\em093_001_BM_NOMIP",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01/effect/base/em/em093/em093_001_BM_NOMIP.png"
+   ],
+   "format": "rgba8",
+   "width": 512,
+   "height": 512,
+   "source_image": "tex1_128x128_8A956199E4F4A846_13.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01.arc",
+   "texture": "effect\\base\\em\\em093\\em093_tuning_01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em068_01/effect/base/em/em093/em093_tuning_01_BM.png"
+   ],
+   "format": "rgba8",
+   "width": 512,
+   "height": 512,
+   "source_image": "tex1_128x128_6C89ED91F7E3DF7E_12.png"
+  }
+ ]
+}

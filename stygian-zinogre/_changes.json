@@ -1,0 +1,117 @@
+{
+ "tool": "MHGU Mod Texture Editor 1.2.0",
+ "mod": "/home/admin/Documents/Working/MHGU/Releases/Releases v2.0.0/stygian_zinogre-1.0.4.zip",
+ "files": "png",
+ "textures": [
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_01_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_01_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "em057_01_01_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_01_BM+A",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_01_BM+A.png"
+   ],
+   "format": "bc3",
+   "width": 256,
+   "height": 256,
+   "source_image": "em057_01_01_BM+A.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_01_NM_MIRROR",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_01_NM_MIRROR.png"
+   ],
+   "format": "bc5",
+   "width": 512,
+   "height": 256,
+   "source_image": "em057_01_01_NM_MIRROR.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_02_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_02_BM.png"
+   ],
+   "format": "bc3",
+   "width": 2048,
+   "height": 2048,
+   "source_image": "em057_01_02_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_04_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_04_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 2048,
+   "source_image": "em057_01_04_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_04_BM+A",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_04_BM+A.png"
+   ],
+   "format": "bc3",
+   "width": 128,
+   "height": 256,
+   "source_image": "em057_01_04_BM+A.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_04_NM_MIRROR",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_04_NM_MIRROR.png"
+   ],
+   "format": "bc5",
+   "width": 256,
+   "height": 256,
+   "source_image": "em057_01_04_NM_MIRROR.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_03_BM",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_03_BM.png"
+   ],
+   "format": "bc3",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "em057_01_03_BM.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "enemy\\em057\\em057_01\\mod\\em057_01_03_BM+A",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/enemy/em057/em057_01/mod/em057_01_03_BM+A.png"
+   ],
+   "format": "bc3",
+   "width": 64,
+   "height": 64,
+   "source_image": "em057_01_03_BM+A.png"
+  },
+  {
+   "arc": "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01.arc",
+   "texture": "effect\\base\\em\\em049\\em049_000_BM_NOMIP",
+   "files": [
+    "MHGU Definitive Edition/romfs/nativeNX/arc/enemy/em057_01/effect/base/em/em049/em049_000_BM_NOMIP.png"
+   ],
+   "format": "rgba8",
+   "width": 1024,
+   "height": 1024,
+   "source_image": "tex1_256x256_D0FD35A13C16DE35_13.png"
+  }
+ ]
+}
